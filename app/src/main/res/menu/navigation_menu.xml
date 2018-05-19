@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_item1"
+        android:icon="@mipmap/ic_place_black_24dp"
+        android:title="@string/nav_item1" />
+    <item
+        android:id="@+id/nav_item2"
+        android:icon="@mipmap/ic_restaurant_black_24dp"
+        android:title="@string/nav_item2" />
+    <item
+        android:id="@+id/nav_item3"
+        android:icon="@mipmap/ic_hotel_black_24dp"
+        android:title="@string/nav_item3" />
+    <item
+        android:id="@+id/nav_item4"
+        android:icon="@mipmap/ic_event_black_24dp"
+        android:title="@string/nav_item4" />
+</menu>
